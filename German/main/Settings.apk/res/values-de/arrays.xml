@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="screen_key_long_press_action">
+   <string-array name="long_press_volume_down_action">
+        <item>Keine Action</item>
+	<item>Foto Aufnahmemodus</item>
+        <item>Video Aufnahmemodus</item>
+        <item>NFC</item>
+   </string-array>
+   <string-array name="screen_key_long_press_action">
         <item>Keine</item>
         <item>Zuletzt verwendet</item>
         <item>Sprachassistent</item>
@@ -629,7 +635,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Automatischer Kontrast</item>
-        <item>Reduzierter Kontrast</item>
+        <item>Erhöhter Kontrast</item>
         <item>Standard</item>
     </string-array>
     <string-array name="screen_optimize_summary">
@@ -818,10 +824,5 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Schwach</item>
         <item>Mittel</item>
         <item>Stark</item>
-    </string-array>
-    <string-array name="long_press_volume_down_action">
-        <item>Keine</item>
-        <item>Street-Snap (Modus muss in der Kameraapp ausgewählt werden)</item>
-        <item>Verknüpfung mit öffentlichen Verkehrsmittel</item>
     </string-array>
 </resources>

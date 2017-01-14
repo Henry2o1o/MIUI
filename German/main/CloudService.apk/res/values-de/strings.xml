@@ -10,7 +10,7 @@
   <string name="add_cloud_storage">Speicher hinzufügen</string>
   <string name="add_short_cut">Hinzufügen</string>
   <string name="added_successfully">Hinzufügen erfolgreich</string>
-  <string name="all_sync_item_open">Alle Elemente sind auf</string>  
+  <string name="all_sync_item_open">Alle Elemente sind auf</string>
   <string name="antispam_sync">\"Bitte nicht stören\" Einstellungen</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
@@ -22,7 +22,7 @@
   <string name="button_cancel">Abbrechen</string>
   <string name="buy_more_space_b_class">"Loggen Sie sich bei mi.com/micloud ein, um mehr Speicherplatz zu erhalten.
 Sie benötigen eine Mainland China Bank Karte, um zusätzlichen Speicherplatz zu kaufen."</string>
-  <string name="buy_more_space_c_class">"Diese Funtion setzt eine Mainland China Bank Karte voraus.
+  <string name="buy_more_space_c_class">"Diese Funktion setzt eine Mainland China Bank Karte voraus.
 Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
   <string name="buy_space_expire">Gekaufter Speicherplatz wird in %s verfallen</string>
   <string name="buy_space_expire_concat">%1$s bis %2$s</string>
@@ -44,8 +44,8 @@ Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
 Zuletzt gesichert am %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Apps sichern, wenn Sie mit einem WLAN verbunden sind, einmal alle %1$s</string>
   <string name="cloud_back_up_remove_success">Sicherung gelöscht</string>
-  <string name="cloud_back_up_title">Apps sichern </string>
   <string name="cloud_back_up_summary">Sichern, wenn Sie mit einem WLAN verbunden sind</string>
+  <string name="cloud_back_up_title">Apps sichern </string>
   <string name="cloud_backup_dialog_title">In der Mi Cloud sichern</string>
   <string name="cloud_find_device">Gerät finden</string>
   <string name="cloud_restore_title">Sicherung wiederherstellen</string>
@@ -73,12 +73,12 @@ Zuletzt gesichert am %2$s"</string>
   <string name="enable_sync_dspt">"Nicht synchronisieren"</string>
   <string name="error_data_in_transfer">Synchronisation wird in %s Stunden beendet sein.</string>
   <string name="error_data_in_transfer_title">Mi Cloud nicht verfügbar</string>
-  <string name="error_forbidden">Synchronisation wurde ausgeschalten wegen Problemen mit Ihrem Mi Konto.</string>
+  <string name="error_forbidden">Synchronisation wurde ausgeschaltet wegen Problemen mit Ihrem Mi Konto.</string>
   <string name="error_network">"Kann mich nicht mit Netzwerk verbinden"</string>
   <string name="error_not_acceptable">Synchronisation wurde ausgeschaltet.</string>
   <string name="error_server">Serverfehler</string>
   <string name="error_title">"Konnte nicht synchronisieren"</string>
-  <string name="error_unauthorized">Synchronisation wurde abgeschalten, wegen zu vieler Log-In Versuche.</string>
+  <string name="error_unauthorized">Synchronisation wurde abgeschaltet, wegen zu vieler Log-In Versuche.</string>
   <string name="error_unknown">"Anmeldung fehlgeschlagen"</string>
   <string name="find_device">Gerät suchen</string>
   <string name="find_device_disabled_notice">"Sie können diese Funtion jederzeit in den Mi Cloud Einstellungen ein- oder ausschalten."</string>
@@ -193,8 +193,8 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_detail_query_error_detail">"Synchronisationszustand kann nicht überprüft werden. Bitte kontaktieren Sie die Entwickler."</string>
   <string name="micloud_detail_query_error_title">"Synchronisationszustand kann nicht überprüft werden"</string>
   <string name="micloud_detail_success">Synchronisiert</string>
-  <string name="micloud_detail_syncing">Wird synchronisiert</string>
   <string name="micloud_detail_sync_now">Jetzt synchronisieren</string>
+  <string name="micloud_detail_syncing">Wird synchronisiert</string>
   <string name="micloud_detail_upload_syncing">Lade %s hoch</string>
   <string name="micloud_detail_wlan">%d warte zum synchronisieren</string>
   <string name="micloud_detail_wlan_contact">%d Kontaktfotos warten auf Synchronisation</string>
@@ -381,7 +381,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet-Telefonie</string>
   <string name="mx_voip_dspt">Mi Voice</string>
-    <string name="network_unconnected">Keine Netzwerkverbindung</string>
+  <string name="network_unconnected">Keine Netzwerkverbindung</string>
   <string name="next">Weiter</string>
   <string name="noRemind">"Erinnere mich nicht daran"</string>
   <string name="no_sim">Keine SIM-Karte gefunden</string>
@@ -450,7 +450,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's interne Apps benötigen Mi Cloud, um ihren Fotos, Kontakte, Notizen und mehr zu sichern. Mi Cloud ist kostenlos und einfach zu bedienen."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloud verwenden</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Mi Cloud nicht verwenden?"</string>
-  <string name="sync_dspt_entrance_provision_skip"><u>Überspringen</u></string>
+  <string name="sync_dspt_entrance_provision_skip"><u>&amp;#220;berspringen</u></string>
   <string name="sync_dspt_provision">"Synchronisieren Sie Ihre Fotos, Kontakte, Notizen und mehr mit allen Ihren Geräten oder greifen Sie darauf zu"</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>

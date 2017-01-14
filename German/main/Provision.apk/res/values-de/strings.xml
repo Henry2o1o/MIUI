@@ -32,7 +32,7 @@
   <string name="other_settings_auto_update">Automatisch aktualisieren</string>
   <string name="other_settings_auto_update_summary">MIUI wird Leerlaufzeit nutzen, um Updates herunterzuladen und zu installieren</string>
   <string name="other_settings_location">Standort</string>
-  <string name="other_settings_location_summary">Apps dürfen Ihren Standort lokalisieren</string>  
+  <string name="other_settings_location_summary">Apps dürfen Ihren Standort lokalisieren</string>
   <string name="other_settings_mifg_online_content">Hintergrundkarussell</string>
   <string name="other_settings_mifg_online_content_summary">Stellen Sie eine Internetverbindung her, um neue Bildschirmhintergründe für Ihren Sperrbildschirm zu bekommen.</string>
   <string name="other_settings_permission">MIUI-Serviceberechtigungen</string>
