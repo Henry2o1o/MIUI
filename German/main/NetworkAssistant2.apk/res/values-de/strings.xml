@@ -145,7 +145,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="local_ip_exception_summary">Die lokale IP-Adresse konnte nicht abgerufen werden. Um den Fehler an MIUI zu senden, öffnen Sie die Fehlerberichtsapp und versenden Sie den Log von Ihrem Gerät.</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s im Sperrbildschirm verbraucht</string>
   <string name="lock_screen_traffic_guide_notification_title">Tippen, um Datenverbrauch zu verwalten.</string>
-  <string name="lock_screen_traffic_notify_body">Gesperrt für %2$s von %1$s. %3$s Daten verbraucht</string>
+  <string name="lock_screen_traffic_notify_body">Gesperrt für %2$s ab %1$s Uhr, %3$s Daten verbraucht</string>
   <string name="lock_screen_traffic_purchase_textview">Datenvolumen kaufen</string>
   <string name="lock_screen_traffic_warn_title">Sperrbildschirmbenachrichtigungen</string>
   <string name="lock_screen_warning_category">Sperrbildschirmbenachrichtigungen</string>
