@@ -10,8 +10,8 @@
   <string name="app_version_which_call">Anwendungsversion:%s</string>
   <string name="arbor_day">Tag des Baumes</string>
   <string name="armed_forces_day">Tag der Streitkräfte</string>
-  <string name="autumn_begins">Beginn des Herbstes</string>
-  <string name="autumn_equinox">Herbsttagundnachtgleiche</string>
+  <string name="autumn_begins">Herbstanfang</string>
+  <string name="autumn_equinox">Herbst-Tagundnachtgleiche</string>
   <string name="carousel">Karussell</string>
   <string name="childrens_day">Kindertag</string>
   <string name="chinese_youth_day">Tag der Jugend</string>
@@ -29,7 +29,7 @@
   <string name="cta_permission_and"> und </string>
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Nutzungsbedingungen</string>
-  <string name="day_following_good_friday">Karsamstag</string>
+  <string name="day_following_good_friday">Tag nach dem Karfreitag</string>
   <string name="daydream">Tagtraum</string>
   <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
   <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
@@ -65,11 +65,11 @@
   <string name="group_name_family">Familie</string>
   <string name="group_name_friends">Freunde</string>
   <string name="heavy_snow">Dàxuě - Großer Schnee</string>
-  <string name="hksar_establishment_day">Wiedervereinigungstag</string>
+  <string name="hksar_establishment_day">Tag der Deutschen Einheit</string>
   <string name="hoar_frost_falls">Shuāngjiáng - Erster Frost</string>
   <string name="insects_awaken">Jīngzhé - Erwachen der Insekten</string>
   <string name="international_womens_day">Frauentag</string>
-  <string name="labour_day">Maifeiertag</string>
+  <string name="labour_day">1. Mai</string>
   <string name="lantern_festival">Laternenfest</string>
   <string name="license_host_unreachable">"Verbindung kann nicht aufgebaut werden. Für weitere Informationen, 
 gehe zu %s"</string>
@@ -106,7 +106,7 @@ gehe zu %s"</string>
   <string name="mibi_license">Mi Credit Nutzungsbedingungen</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day">Nationalfeiertag</string>
-  <string name="national_father_day">Vatertag</string>
+  <string name="national_father_day">Männertag</string>
   <string name="new_years_day">Neujahr</string>
   <string name="no_notification_tips">Keine Benachrichtigungen.</string>
   <string name="partys_day">Tag der Partei</string>
@@ -128,7 +128,7 @@ gehe zu %s"</string>
   <string name="the_armys_day">Tag der Streitkräfte</string>
   <string name="the_double_ninth_festival">Chung Yeung Festival</string>
   <string name="the_dragon_boat_festival">Drachenbootfest</string>
-  <string name="the_first_weekday_after_christmas">Der erste Tag nach Weihnachten</string>
+  <string name="the_first_weekday_after_christmas">1. Weihnachtsfeiertag</string>
   <string name="the_laba_rice_porridge_festival">Laba</string>
   <string name="the_mid_autumn_festival">Mittherbstfest</string>
   <string name="the_rains">Yǔshuǐ - Regenwasser</string>
@@ -138,7 +138,7 @@ gehe zu %s"</string>
   <string name="tw_youth_day">Tag der Jugend</string>
   <string name="united_nations_day">Tag der Vereinten Nationen</string>
   <string name="valentines_day">Valentinstag</string>
-  <string name="vernal_equinox">Frühjahrstagundnachtgleiche</string>
+  <string name="vernal_equinox">Frühjahrs-Tagundnachtgleiche</string>
   <string name="vip_achievements">Erfolge</string>
   <string name="vip_level">LV%d</string>
   <string name="vip_login">Zum Anmelden antippen</string>
